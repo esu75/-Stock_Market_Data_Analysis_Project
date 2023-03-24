@@ -20,8 +20,16 @@ Create a script that loops through all the stocks and outputs the following info
     step 6: calculate the the percentage change from the opening price at the beginning of a given year to the closing price at the end of that year
     step 7: calculate the total volume from cells(i,7)
   summary tbale for steps 1 through 7:
-  ------------------------------------
+
 
 ![image](https://user-images.githubusercontent.com/118146659/227642324-02bb9942-8f16-4772-b7ff-74d215bf3602.png)
+
+     step 8: calculate the Greatest % increase, Greatest % decrease, and Greatest total volume from steps 5, 6, and 7
+     step 9: create a summary table and populate Greatest % increase, Greatest % decrease, and Greatest total volume
+     
+     ![image](https://user-images.githubusercontent.com/118146659/227643977-418e83db-748f-430b-a3df-cb8321f1ba83.png)
+
+personal refelctions:
+Based on this analysis Tickers THB, RKS, QKN have the Greatest % increase (141.42%), Greatest % decrease (-90.02%), and Greatest total volume (1.69E12) respectively
 
   
