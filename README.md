@@ -3,7 +3,7 @@ Stock_Market_Data_Analysis_Project
 For this project VBA scripting is used to analyze generated stock market data
 Goal:
 
-##Create a script that loops through all the stocks and outputs the following information:
+Create a script that loops through all the stocks and outputs the following information:
 
       a. The ticker symbol
 
@@ -12,4 +12,5 @@ Goal:
       c. The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
       d. The total stock volume of the stock. 
+      
   
