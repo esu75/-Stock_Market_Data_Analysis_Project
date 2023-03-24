@@ -5,11 +5,11 @@ Goal:
 
 ##1. Create a script that loops through all the stocks and outputs the following information:
 
-  a. The ticker symbol
+      a. The ticker symbol
 
-  b. Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
+      b. Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-  c. The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
+      c. The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-  d. The total stock volume of the stock. 
+      d. The total stock volume of the stock. 
   
