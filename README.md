@@ -19,8 +19,8 @@ Create a script that loops through all the stocks and outputs the following info
     step 5: calculate the Yearly change using the close and open price  differences and update the table
     step 6: calculate the the percentage change from the opening price at the beginning of a given year to the closing price at the end of that year
     step 7: calculate the total volume from cells(i,7)
-    summary tbale for steps 1 through 7:
-    ------------------------------------
+  summary tbale for steps 1 through 7:
+  ------------------------------------
 
 ![image](https://user-images.githubusercontent.com/118146659/227642324-02bb9942-8f16-4772-b7ff-74d215bf3602.png)
 
