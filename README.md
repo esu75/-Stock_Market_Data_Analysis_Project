@@ -1,4 +1,4 @@
-Stock_Market_Data_Analysis_Project
+VBA_Stock_Market_Data_Analysis_Project
 ----------------------------------
 For this project VBA scripting is used to analyze generated stock market data
 Goal:
